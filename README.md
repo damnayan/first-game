@@ -11,6 +11,7 @@ Technologies Used:
 
 Python 3.
 Standard Library: random for die roll simulation
+
 How to Play:
 
 Start the script to initiate the game.
